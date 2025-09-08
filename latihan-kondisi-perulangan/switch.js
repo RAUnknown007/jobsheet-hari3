@@ -18,7 +18,7 @@ switch (bulan) {
         namaBulan = "Mei"
         break;
     case 6:
-        namaBulan = "Juni"
+        namaBulan = "Juni "
         break;
     case 7:
         namaBulan = "Juli"

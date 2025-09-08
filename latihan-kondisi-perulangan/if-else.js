@@ -7,5 +7,5 @@ if (nilai >= 90) {
 } else if (nilai >= 70){
   console.log("Nilai kamu C"); 
 } else {
-  console.log("Nilai kamu D"); 
+  console.log("Nilai kamu D "); 
 }

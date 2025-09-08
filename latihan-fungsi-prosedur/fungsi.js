@@ -14,7 +14,7 @@ function tampilkanPersegi(sisi) {
     console.log("Sisi             :", sisi);
     console.log("Luas Persegi     :", hitungLuas(sisi));
     console.log("Keliling Persegi :", hitungKeliling(sisi));
-    console.log("===========================\n");
+    console.log(" ===========================\n");
 }
 
 // Pemanggilan fungsi

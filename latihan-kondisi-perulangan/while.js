@@ -4,7 +4,7 @@ let ulang = true;
 do {
   let i = 1;
 
-  console.log("Menampilkan genap dari 1 sampai 20:");
+  console.log("Menampilkan genap dari 1 sampai 20: ");
   while (i <= 20) {
     if (i % 2 === 0) {
         console.log(i);
